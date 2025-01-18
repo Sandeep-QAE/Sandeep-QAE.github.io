@@ -1,5 +1,5 @@
 # Sandeep Singh
-## Senior QA Engineer | ISTQB Certified
+## Senior QA Engineer  | ISTQB Certified
 
 #### Contact Details: sandeeprandhawa05@gmail.com | +91-8727801565
 
