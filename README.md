@@ -7,10 +7,10 @@
 
 
 ## PROFILE
-•Senior QA professional with more than 8 years of experience specializing in both manual and automated testing.
-•Expert in UI automation, API automation, salesforce testing, cloud testing, implementing SaaS platform integrations and
+- Senior QA professional with more than 8 years of experience specializing in both manual and automated testing.
+- Expert in UI automation, API automation, salesforce testing, cloud testing, implementing SaaS platform integrations and
 data security.
-•Skilled in utilizing AI tools to boost testing efficiency and accuracy, acknowledged for streamlining QA processes and reducing
+- Skilled in utilizing AI tools to boost testing efficiency and accuracy, acknowledged for streamlining QA processes and reducing
 production issues through effective planning and automation.
 PROFESSIONAL EXPERIENCE
 Software Engineer in Test - II, Mindtickle 08/2021 – present | Pune, India
