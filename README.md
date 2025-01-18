@@ -11,9 +11,12 @@
 data security.
 - Skilled in utilizing AI tools to boost testing efficiency and accuracy, acknowledged for streamlining QA processes and reducing
 production issues through effective planning and automation.
-PROFESSIONAL EXPERIENCE
-Software Engineer in Test - II, Mindtickle 08/2021 – present | Pune, India
-Platform Systems and Integration
+
+
+## PROFESSIONAL EXPERIENCE
+
+### Software Engineer in Test - II, Mindtickle 08/2021 – present | Pune, India
+#### Platform Systems and Integration
 •Led QA for Mindtickle platform serving ~300 customers, managing 30+ integrations including Salesforce, HRMS, SCIM AD & Okta,
 CMS Systems, Web Conferencing, Communication apps, SAML SSO.
 •Successfully managing 9+ Salesforce integrations including package testing, user provisioning and object data synchronization
