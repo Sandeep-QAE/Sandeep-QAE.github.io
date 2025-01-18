@@ -6,7 +6,7 @@
 #### Linkedin: linkedin.com/in/qa-sandeepsingh
 
 
-### PROFILE
+## PROFILE
 •Senior QA professional with more than 8 years of experience specializing in both manual and automated testing.
 •Expert in UI automation, API automation, salesforce testing, cloud testing, implementing SaaS platform integrations and
 data security.
