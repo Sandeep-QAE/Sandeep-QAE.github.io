@@ -1,9 +1,8 @@
 # Sandeep Singh
 ## Senior QA Engineer | ISTQB Certified
-#### Mail: sandeeprandhawa05@gmail.com
-#### Phone: +91-8727801565
-#### Location: Pune / PAN India
-#### Linkedin: linkedin.com/in/qa-sandeepsingh
+
+#### Contact Details: sandeeprandhawa05@gmail.com | +91-8727801565
+
 
 
 ## PROFILE
