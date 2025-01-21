@@ -1,104 +1,71 @@
-# Sandeep Singh
-## Senior QA Engineer  | ISTQB Certified
+# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-#### Contact Details: sandeeprandhawa05@gmail.com | +91-8727801565
+[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
+## Preview
 
+[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-## PROFILE
-- Senior QA professional with more than 8 years of experience specializing in both manual and automated testing.
-- Expert in UI automation, API automation, salesforce testing, cloud testing, implementing SaaS platform integrations and
-data security.
-- Skilled in utilizing AI tools to boost testing efficiency and accuracy, acknowledged for streamlining QA processes and reducing
-production issues through effective planning and automation.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
+## Status
 
-## PROFESSIONAL EXPERIENCE
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
-### Software Engineer in Test - II, Mindtickle 08/2021 – present | Pune, India
-#### Platform Systems and Integration
-•Led QA for Mindtickle platform serving ~300 customers, managing 30+ integrations including Salesforce, HRMS, SCIM AD & Okta,
-CMS Systems, Web Conferencing, Communication apps, SAML SSO.
-•Successfully managing 9+ Salesforce integrations including package testing, user provisioning and object data synchronization
-•Automated workflows using cloud-based Workato tool for ETL and data integration tasks.
-AI-Driven QA Initiatives
-•Created scalable prompts for a UI/UX design refresh, saving 60% of test case creation time.
-•Reduced debugging time significantly with efficient log analysis prompts from ~30 mins to ~3 mins, saved 40 hours.
-•Designed prompt for LLMs to compare screenshots, reducing manual reporting time by 70%
-Quality Assurance and Process Improvement
-•Spearheaded test initiatives from requirement analysis to bug triage, reporting, and closure with a shift-left approach, ensuring
-quality releases by maintaining clear communication with stakeholders to align expectations and address ambiguities early.
-•Developed detailed test plans and strategies to meet strict timelines while minimizing risk.
-•Reduced production bugs by 27% through root cause analysis and preventive measures.
-•Designed data-driven test strategies to decrease annual production bugs from double to single digits.
-•Introduced P0 scenario prioritization for developers to deliver a stable product, enabling QA to focus on critical, enterprise-ready
-testing.
-•Established Design and Copy sign-off checkpoints for frontend projects to prevent late-stage changes and reduce rework.
-UI & API Automation
-•Automated UI workflows using Selenium (Java, TestNG,) to streamline regression testing.
-•Developed API automation test suites using Postman and Newman integrated into CI/CD pipelines.
-•Utilized Postman Mock Server for early contract validation and payload testing.
-Troubleshooting and Cloud Debugging
-•Resolved issues across backend and frontend systems, ensuring smooth system performance.
-•Debugged Kafka pipelines and cloud services to identify data inconsistencies, improving real-time data accuracy and system
-reliability.
-Technical Documentation and Team Mentoring
-•Created comprehensive integration documentation, including setup guides, troubleshooting steps, and architectural insights,
-reducing onboarding time and improving debugging efficiency.
-•Reviewed test cases, provided solutions to QA challenges, and organized sessions to upskill team members.
-Software Quality Assurance Engineer, Dataguise (Now Pkware) 08/2015 – 07/2021 | Mohali, India
-Enterprise Data Security and Testing
-•Ensured data integrity across databases, Hadoop, and cloud repositories using masking and encryption techniques.
-•Performed build deployments on local and cloud premises, conducted smoke, sanity, regression, and system testing to ensure
-product stability and quality.
-•Designed comprehensive test cases to validate system functionality and meet business requirements.
-Automation and Process Improvement
-•Automated over 500 test cases within two months, significantly increasing test coverage and reducing manual effort.
-•Conducted training sessions for interns, improving onboarding efficiency and knowledge transfer by 40%.
-Client Engagement and Recognition
-•Worked with high-profile clients such as Aetna, Expedia, VISA, American Express, and Wells Fargo, ensuring their enterprise data
-security needs were met.
-•Recognized as one of the top three best performers for logging the highest number of software bugs at Dataguise.
-SKILLS & TOOLS
-Skills:
-•Web & Mobile Testing, ETL Testing, UI/UX
-•Performance & Security Testing, Regression,Smoke,Sanity Testing
-•GraphQL, SoapUI, REST API Testing
-•Exploratory & Risk Based Testing
-•UI Automation & API Automation (Selenium, TestNG, Cucumber,Postman, Newman)
-•SQL, Core Java, JavaScript (Fundamentals), Linux, Unix
-•Salesforce: Package testing, Standard and Custom objects,Flow builder, Object level permissions
-•Agile, Scrum, Kanban, Sprint Planning, SDLC, STLC, Bug Life Cycle
-•OAuth2, SAML SSO
-•Big Data: Hive, HDFS, MapReduce
-•Cloud Platforms and Services:
-•AWS: Step Functions, Lambda, S3, CloudWatch, Athena, EMR
-•Azure(Fundamentals): Blob Storage, Databricks
-•GCP(Fundamentals): BigQuery, DataProc Clusters
-•Kafka Debugging & Data Streaming
-Tools:
-•Test Management and Reporting Tools: Jira, TestRail, Swagger, BrowserStack
-•API Testing and Debugging Tools: Postman, Newman, Charles Proxy
-•Monitoring and Logging Tools: Datadog, Grafana, Loki, Sumo Logic, Mixpanel
-•Workflow Automation and Integration Tools: Workato, Jitterbit, Salesforce Inspector
-•CI/CD Tools(Fundamentals): Jenkins, CI/CD pipelines.
-•AI and Prompt Engineering Tools: ChatGPT, Gemini, Claude, Napkin
-•Database Tools: MySQL, PostgreSQL, Snowflake (Fundamentals)
-•OS: Windows, Mac, Linux
-EDUCATION
-MSc IT (Lateral Entry), Information Technology (2020 - 2021),
-Lovely Professional University
-Phagwara, India
-Bachelor's in Electronics & Communications Engineering (2008 -
-2012), Punjabi University
-Patiala, India
-CERTIFICATES
-ISTQB – Foundation Level Certified Agile Foundations -
-approved by the PMI® Authorised
-Training Partner Program
-SQL Certification - Sololearn
-AWARDS
-Three Pat on the Back Awards, Mindtickle
-Project Code Red Award, Mindtickle
-3 High Quality Awards, Mindtickle
-Top Performer and Bug Hunter Award, Dataguise (now PkWare
+## Download and Installation
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
+* Install via npm: `npm i startbootstrap-resume`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+#### Gulp Tasks
+
+- `gulp` the default task that builds everything
+- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp sass` compiles SCSS files into CSS
+- `gulp minify-css` minifies the compiled CSS file
+- `gulp minify-js` minifies the themes JS file
+- `gulp copy` copies dependencies from node_modules to the vendor directory
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
+
+## Custom Builds
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
